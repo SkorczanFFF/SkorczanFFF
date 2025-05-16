@@ -1,9 +1,9 @@
 <b>Hey I'm Maciej, Frontend Developer. </b>
 <br/>
 
-Focused on on creating efficient, interactive, and visually engaging web applications, often using WebGL for dynamic web experiences. I’m always looking for new ways to solve complex problems. Skilled in Photoshop and 3ds Max for design and 3D modeling.
+Focused on on creating efficient, interactive, and visually engaging web applications, often using WebGL for dynamic web experiences. I’m always looking for new ways to solve complex problems. Skilled in Photoshop and 3Ds Max for design and 3D modeling.
 
-In my spare time, I use Python for process automation (e.g., key presser for Tibia) and work with Pawn/PawnC for SAMP server scripting, constantly expanding my programming skills and building personal projects.
+In my free time, I code for fun — building small tools in Python and scripting for SAMP with Pawn/PawnC.
 
 Reach me through https://mskorus.vercel.app/ or skorusmaciej94@gmail.com
 
@@ -48,4 +48,5 @@ Reach me through https://mskorus.vercel.app/ or skorusmaciej94@gmail.com
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkorczanFFF&hide=html,css&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkorczanFFF&layout=compact&hide=html,css&langs_count=10&theme=tokyonight) ![](https://komarev.com/ghpvc/?SkorczanFFF&label=PROFILE+VIEWS)
+
